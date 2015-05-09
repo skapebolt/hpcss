@@ -25,7 +25,7 @@ body {
 
 #navigation {
   text-align:center;
-  width:60em;
+  font-size:25px;
 }
 
 a { color: #7C9D5B; text-decoration: none; }
