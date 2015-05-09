@@ -25,7 +25,6 @@ body {
 
 #navigation {
   text-align:center;
-  font-size:500%;
 }
 
 a { color: #7C9D5B; text-decoration: none; }
@@ -34,7 +33,7 @@ time { color: grey; }
 
 h1 { font-size: 2em; }
 h2 { font-size: 1.7em; }
-h3 { font-size: 1.5em; }
+h3 { font-size: 120%; }
 h4 { font-size: 1.3em; }
 h1 a, h2 a { text-decoration: none; }
 h1 a:hover, h2 a:hover { text-decoration: underline; }
