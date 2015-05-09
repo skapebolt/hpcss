@@ -25,9 +25,10 @@ body {
 
 #navigation {
   text-align:center;
+  font-size: 100%;
 }
 
-a { color: #5b8432; text-decoration: none; }
+a { color: #7C9D5B; text-decoration: none; }
 a:hover { color: white; text-decoration: underline; }
 time { color: grey; }
 
