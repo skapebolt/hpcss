@@ -25,7 +25,8 @@ body {
 
 #navigation {
   text-align:center;
-  font-size:25px;
+  font-size:1.8em;
+  font-family: 'Ubuntu', 'Trebuchet MS', sans-serif;
 }
 
 a { color: #7C9D5B; text-decoration: none; }
